@@ -7,6 +7,7 @@ function App() {
       <h1>Dipika</h1>
       <h2>Comment ça va?</h2>
       <h2>Je vais créer votre site Web d'entreprise ici.</h2>
+      <h1>Test</h1>
     </div>
   );
 }
